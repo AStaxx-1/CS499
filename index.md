@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my CS 499 ePortfolio
 
-You can use the [editor on GitHub](https://github.com/AStaxx-1/CS499/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This portfolio is the culmination of my work in the SNHU Computer Science Program, and will continuously be updated throughout the duration of my capstone course. Have a look below to watch my process and see the portfolio grow.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Code Review
 
-### Markdown
+This review was intended to look-over and critique the code I am using to make enhancements on. The code review coveres a few different programs that I have submitted to enhance, and lays out how I plan to make these enhancements throughout CS 499. The code review has three sections: Software Engineering and Design, Data Structures and Algorithms, and Databases. Each of these sections has initial code and planned enhancements associated with them. Please use the link to access and view my [code review](https://youtu.be/3gtrRmnn6po) for this portfolio. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AStaxx-1/CS499/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
