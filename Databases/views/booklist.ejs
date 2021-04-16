@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Book List</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1> Book List</h1>
+        <p>
+        To <a href="/newbook">add</a> a new book click the link.
+    </p>
+    
+    <p>
+        To return to the <a href="/">welcome page</a> click the link.
+    </p>
+    <h2> Title - Author - Type - Condition - Remarks </h2>
+    <u1>
+        <%
+            var list = '';
+            for (i=0; i < booklist.length; i++){
+                list += '<p>' + booklist[i].BookTitle + '  -  ' + booklist[i].BookAuthor + '  -  ' + booklist[i].Type + '  -  ' + booklist[i].Condition + '  -  ' + booklist[i].Remarks + '</h3>';
+                }
+        %>
+        <%- list %>
+    </ul>
+
+    
+  </body>
+</html>

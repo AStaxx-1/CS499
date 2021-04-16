@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Add Book</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    </head>
+    <body>
+        <h1><%=title%></h1>
+        <form id="formAddBook" name="addbook" method="post" action="/addbook">
+            <input id="inputBookTitle" type="text" placeholder="Book Title" name="BookTitle"/>
+            <input id="inputBookAuthor" type="text" placeholder="Author" name="BookAuthor"/>
+            <input id="inputType" type="text" placeholder="Type" name="Type"/>
+            <input id="inputCondition" type="text" placeholder="Condition" name="Condition"/>
+            <input id="inputRemarks" type="text" placeholder="Remarks" name="Remarks"/>
+            <button id="btnSubmit" type="submit">Submit</button>
+        </form>
+        
+        <p> 
+            To access the database <a href="/booklist">booklist</a> click the link.
+        </p>
+        
+        <p>
+            To return to the <a href="/">welcome page</a> click the link.
+        </p>
+    </body>
+</html>
